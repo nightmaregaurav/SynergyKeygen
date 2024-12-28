@@ -1,2 +1,2 @@
 # SynergyKeygen
-Generates Pro Key for Symless/Synergy version 1 (Please only use for educational purposes)
+Generates Pro Key for Symless/Synergy version 1 (The content provided is only for educational and informational purposes.)
